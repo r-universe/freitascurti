@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bolder"]
 	path = bolder
-	url = https://github.com/cran/bolder
+	url = https://github.com/freitascurti/bolder
